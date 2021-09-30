@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kantyas
+- 👀 I’m interested in html and python
+- 🌱 I’m currently learning programing
